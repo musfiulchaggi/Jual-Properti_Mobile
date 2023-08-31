@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bakul Properti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibXVzZml1bGNoYWdnaTAxIiwiYSI6ImNsanBib2FqMTFzanczcW51NDlveWpzOGQifQ.Gx0PV-RqP2h3xzc_weEiMw</string>
+</resources>
